@@ -1,6 +1,9 @@
 **Assignment B3**
 For this assignment, the user has opted to add features to Dean Attali's Shiny App Demo (https://deanattali.com/blog/building-shiny-apps-tutorial/) which is **OPTION A** for the given assignment.
 
+**Find the app here**
+https://stat545md.shinyapps.io/bcliquor/
+
 **Features added:**
 
 1. **Theme** Using the **shinythemes** package, I have added the "sandstone" theme to the app. This feature could be useful for better readability and also for aesthetic purposes for the app.
