@@ -12,7 +12,19 @@ https://stat545md.shinyapps.io/bcliquor/
 
 3. **Plot and table panel** I have seperated the plot and table into two different panels so there is no overcrowrding of information for the user. Depending on what they wish to view, ie. the plot or the table, the user can navigate accordingly.
 
-4. **Interactive table** I have made the table interactive so the user can explore the different liquor options by sorting with more ease. 
+4. **Interactive table** I have made the table interactive so the user can explore the different liquor options by sorting with more ease.
+
+**Assignment B4** 
+
+This assignment entails additions to the previous version of the app. 
+
+**Additions:**
+
+5. ** App introduction and description** Added app introduction and description under the main title. 
+6. **Number of results** This is done to inform the user about the number of available choices based on the filters they select. 
+7. **Download data** Incase the user wants to replicate this task, I have provided the option of downloading the CSV file from which I have created the app.
+8. **Increase number of choices** In the sidebar, I have enabled the option to choose more than one type of product from each country. This will help the user to increas their options for a purchase. 
+9. ** Added colour to the histogram** I have added colour to the histogram based on product type. This helps in better visualisation and aestheic of the app. 
 
 **Acknowledgement**
 This app is an extension of Dean Attali's app. The demo can be found here (https://deanattali.com/blog/building-shiny-apps-tutorial/). Additionally, the dataset we use comes from (https://deanattali.com/blog/building-shiny-apps-tutorial/). This is a processed version of the original dataset that can be found here: https://catalogue.data.gov.bc.ca/dataset/bc-liquor-store-product-price-list-historical-prices.
