@@ -24,7 +24,7 @@ This assignment entails additions to the previous version of the app.
 6. **Number of results** This is done to inform the user about the number of available choices based on the filters they select. 
 7. **Download data** Incase the user wants to replicate this task, I have provided the option of downloading the CSV file from which I have created the app.
 8. **Increase number of choices** In the sidebar, I have enabled the option to choose more than one type of product from each country. This will help the user to increas their options for a purchase. 
-9. ** Added colour to the histogram** I have added colour to the histogram based on product type. This helps in better visualisation and aestheic of the app. 
+9. **Added colour to the histogram** I have added colour to the histogram based on product type. This helps in better visualisation and aestheic of the app. 
 
 **Acknowledgement**
 This app is an extension of Dean Attali's app. The demo can be found here (https://deanattali.com/blog/building-shiny-apps-tutorial/). Additionally, the dataset we use comes from (https://deanattali.com/blog/building-shiny-apps-tutorial/). This is a processed version of the original dataset that can be found here: https://catalogue.data.gov.bc.ca/dataset/bc-liquor-store-product-price-list-historical-prices.
