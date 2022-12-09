@@ -1,6 +1,9 @@
 **Assignment B3**
 For this assignment, the user has opted to add features to Dean Attali's Shiny App Demo (https://deanattali.com/blog/building-shiny-apps-tutorial/) which is **OPTION A** for the given assignment.
 
+**Folder contents**
+Files from this assignment can be found in folder *app*. The folder contains the R file containing the code, a folder named 'www' that contains the image introduced in the app, and the data csv file. 
+
 **Find the app here**
 https://stat545md.shinyapps.io/bcliquor/
 
@@ -16,6 +19,10 @@ https://stat545md.shinyapps.io/bcliquor/
 
 **Assignment B4** 
 This assignment entails additions to the previous version of the app. This corresponds to **Option C** from the given list of options for the assignment. 
+
+**Folder contents**
+Files from this assignment can be found in folder *appextension*. The folder contains the R file containing the code, a folder named 'www' that contains the image introduced in the app, and the data csv file and the rsconnect file. 
+
 
 **Find the app here**
 https://stat545md.shinyapps.io/appextension/
