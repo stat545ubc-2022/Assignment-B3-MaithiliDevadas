@@ -20,7 +20,7 @@ This assignment entails additions to the previous version of the app.
 
 **Additions:**
 
-5. ** App introduction and description** Added app introduction and description under the main title. 
+5. **App introduction and description** Added app introduction and description under the main title. 
 6. **Number of results** This is done to inform the user about the number of available choices based on the filters they select. 
 7. **Download data** Incase the user wants to replicate this task, I have provided the option of downloading the CSV file from which I have created the app.
 8. **Increase number of choices** In the sidebar, I have enabled the option to choose more than one type of product from each country. This will help the user to increas their options for a purchase. 
