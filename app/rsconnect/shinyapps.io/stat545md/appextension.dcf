@@ -1,0 +1,13 @@
+name: appextension
+title: appextension
+username:
+account: stat545md
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7858469
+bundleId: 6616499
+url: https://stat545md.shinyapps.io/appextension/
+when: 1670604713.78319
+lastSyncTime: 1670604713.7832
+asMultiple: FALSE
+asStatic: FALSE
