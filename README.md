@@ -17,6 +17,8 @@ https://stat545md.shinyapps.io/bcliquor/
 **Assignment B4** 
 This assignment entails additions to the previous version of the app. 
 
+**Find the app here**
+https://stat545md.shinyapps.io/appextension/
 
 **Additions:**
 
