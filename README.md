@@ -15,7 +15,7 @@ https://stat545md.shinyapps.io/bcliquor/
 4. **Interactive table** I have made the table interactive so the user can explore the different liquor options by sorting with more ease.
 
 **Assignment B4** 
-This assignment entails additions to the previous version of the app. 
+This assignment entails additions to the previous version of the app. This corresponds to **Option C** from the given list of options for the assignment. 
 
 **Find the app here**
 https://stat545md.shinyapps.io/appextension/
